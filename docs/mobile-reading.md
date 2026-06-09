@@ -194,18 +194,8 @@ Download the latest APK from [GitHub Releases](https://github.com/sohilsayed/chi
 ### Setup
 
 Open *Settings* → *Dictionary* → to access all settings related to dictionaries and anki. For anki lapis is used as default card type.
-  
-<div style="display: flex; gap: 10px;">
-  <div style="flex: 1;">
-    <img src="img/chimahon1.jpeg" style="max-height: 800px; width: auto; display: block; margin: 0 auto;" />
-  </div>
-  <div style="flex: 1;">
-    <img src="img/chimahon2.jpeg" style="max-height: 800px; width: auto; display: block; margin: 0 auto;" />
-  </div>
-  <div style="flex: 1;">
-    <img src="img/chimahon3.jpeg" style="max-height: 800px; width: auto; display: block; margin: 0 auto;" />
-  </div>
-</div>
+
+![img](img/chimahon1_2_3.jpeg){: style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
 
 ### Local Manga
 
