@@ -218,7 +218,7 @@ Note: visual novels on consoles do not have any NSFW content.
 - **[※ Hoshi Reader Android](https://github.com/HuangAntimony/Hoshi-Reader-Android)** - Android port of the beautiful iOS Hoshi Reader, has first-class support for 縦書き and Yomitan dictionaries, and many other awesome features. 
 - [Microsoft Edge Canary](https://play.google.com/store/apps/details?id=com.microsoft.emmx.canary&hl=en) - Fastest browser on Android for Yomitan. Great paired with Ankiconnect Android. 
 - [jidoujisho](https://github.com/lrorpilla/jidoujisho) - A mobile video player, reader assistant and card creation toolkit for Android.  
-- [Chimahon](https://github.com/sohilsayed/chimahon/releases)  
+- [Chimahon](https://github.com/sohilsayed/chimahon/releases) - mhion fork for manga with ocr also supports novels
 #### iOS apps
 - **[※ Hoshi Reader](https://apps.apple.com/us/app/hoshi-reader/id6758244332)** - Beautiful Japanese EPUB reader with a pop up dictionary and Anki card creation support.
 - [Shiori Reader](https://apps.apple.com/us/app/shiori-reader/id6744979827) - Yomitan-like + card creation on iOS.
