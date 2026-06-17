@@ -102,7 +102,7 @@ Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 
 Refer to the tools section for info on how to make lookups easier for manga.  
 
-- **[※ Manatan all-in-one](https://github.com/KolbyML/Manatan)** - Easy to use all-in-one solution for reading Japanese manga with automatic OCR for seamless Yomitan lookups. Supports Desktop, iOS, and Android. [index.min.json file here](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)  
+- **[※ Manatan all-in-one](https://github.com/KolbyML/Manatan)** - Easy to use all-in-one solution for reading Japanese manga with automatic OCR for seamless Yomitan lookups. Supports Desktop, iOS, and Android. [Manatan add-repo page](https://manatan-community.github.io/extensions/add-repo/)
 - [Archive.org 2019 Archive](https://archive.org/download/2019-japanese-comics-pack) - Archive of some manga.  
 - [BilingualManga](https://bilingualmanga.org/) - Yomitan compatible & one-click translation.   
 - **[Hakuneko Manga Downloader](https://hakuneko.download/)** - You can download Japanese manga here, use a combination of the `raw` and `japanese` tags.
@@ -226,7 +226,7 @@ Note: visual novels on consoles do not have any NSFW content.
 - [Immersion Reader](https://apps.apple.com/us/app/immersion-reader/id6443721334) - Japanese e-book reader with a fast dictionary look up feature. 
 - [10ten Japanese Reader](https://apps.apple.com/app/10ten-japanese-reader/id1573540634) - Similar in a way to Yomitan.  
 ### Manga
-- **[※ Manatan all-in-one](https://github.com/KolbyML/Manatan)** - Easy to use all-in-one solution for reading Japanese manga with automatic OCR for seamless Yomitan lookups. Supports Desktop, iOS, and Android. [index.min.json file here](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
+- **[※ Manatan all-in-one](https://github.com/KolbyML/Manatan)** - Easy to use all-in-one solution for reading Japanese manga with automatic OCR for seamless Yomitan lookups. Supports Desktop, iOS, and Android. [Manatan add-repo page](https://manatan-community.github.io/extensions/add-repo/)
 - [mokuro catalog](https://mokuro.moe/catalog/)  
 #### Android apps
 - [Chimahon](https://github.com/sohilsayed/chimahon/releases)  

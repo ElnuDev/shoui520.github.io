@@ -171,7 +171,7 @@ Manatan is an all-in-one app for anime, manga, and novels. It supports Desktop, 
 
 ### Using Manatan
 1. Open **Browse** on the sidebar, then go to the **Extensions** tab.
-2. (If needed) add extension repos. You can add Mihon, Aniyomi, and Aidoku extension repos (for example: `https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json`).
+2. (If needed) add extension repos from `https://manatan-community.github.io/extensions/add-repo/`.
 3. Tap **Install** on the source extensions you want.
 4. Open **Sources**, pick a title, then start reading or watching.
 
