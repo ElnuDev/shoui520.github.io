@@ -70,6 +70,13 @@ Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 #### Anki mining card types
 - **[※ Lapis](https://github.com/donkuri/lapis)** - elegant, simple and easy to set up note type.
 - [Kiku](https://kiku-docs.vercel.app/) - a feature-rich note type.
+
+### JLPT Past Exams
+
+[Đề Thi Tiếng Nhật N5-N1 practice tests](https://dethitiengnhat.com/)
+[JLPT N1 past papers MEGA folder](https://mega.nz/folder/Q0BV0SDD#K-A9VyQn3rj5lX_fjRoqqQ)
+[JLPT N1 past papers Google Drive](https://drive.google.com/drive/folders/1U7Yt9I1S7tgNRRBMLv9xRIeNCZAd_6OE?usp=drive_link)
+[LearnJapaneseAZ JLPT N1 Practice Test](https://learnjapaneseaz.com/jlpt-n1-practice-test.html)
 ---
 ## Immersion Content
 ### Anime
