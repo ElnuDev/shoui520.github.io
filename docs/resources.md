@@ -341,3 +341,9 @@ See Applications section for an EPWING reader.
 - [An Alternate Way To Start Reading (by OrangeLightX)](https://docs.google.com/document/d/1OcCK337wXqjW9dzH0A-5GtNVJ0Ts3ZSHwkmwl7U-waI/edit)
 - [Assorted JP Guides (by Chronopolize)](https://drive.google.com/drive/folders/1W_xiDBWsbCLPF3nrxMDYtaqGrd2B9QI2?usp=sharing)  
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more. 
+
+## Handwriting
+
+- [Tegaki Tuesday](https://tegakituesday.com/) - Tegaki Tuesday is a weekly handwriting challenge hosted on Discord that provides handwriting practice and gives learners an opportunity to get feedback on handwriting. There's also a Kanji of the Day challenge, along with a short [getting started guide](https://tegakituesday.com/getting-started).
+- [Japanese Calligrapher Takumi](https://www.youtube.com/@takumitohgu) - Takumi's handwriting is a good reference for learning, as opposed to computer fonts, which can deviate significantly from how Japanese is actually written by hand. If you're just starting out, see his videos on [hiragana](https://www.youtube.com/watch?v=wD3FJgij79c) and [katakana](https://www.youtube.com/watch?v=rf-n_qI2occ), and copy out the kana chart on gridded paper.
+- [Kanji balance](https://美文字の書き方.com/c02/) - A Japanese-language guide to balancing kanji shapes for "beautiful handwriting" (美文字), sorted by structural pattern with worked examples for each.
