@@ -193,7 +193,7 @@ Note: visual novels on consoles do not have any NSFW content.
 - [Podcast Republic](https://www.podcastrepublic.net/) - Change the country to Japan and look at popular.  
 - [睡眠用ひろゆき](https://www.youtube.com/@kiriyuki_hiroyuki/videos)
 ### Subtitles
-- [Kitsunekko Japanese subtitles for anime](https://kitsunekko.net/dirlst.php?dir=subtitles%2Fjapanese%2F) - Kitsunekko has the largest amount of Japanese subtitles. But avoid subtitles made by "kamigami", their subtitles may have transcription errors (I say "may", but in reality it is almost always). 
+- [Kitsunekko Japanese subtitles for anime](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) - Kitsunekko has the largest amount of Japanese subtitles. But avoid subtitles made by "kamigami", their subtitles may have transcription errors (I say "may", but in reality it is almost always). 
 - [Jimaku.cc](https://jimaku.cc/) - new site as a more secure alternative to kitsunekko    
 - ~~[Itazuraneko Japanese subtitles](https://itazuraneko.neocities.org/library/sub.html)~~  
 - [JP-Subbers drama subtitles](http://jpsubbers.xyz/Japanese-Subtitles/%40Mains/)  
