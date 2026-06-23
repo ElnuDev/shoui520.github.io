@@ -1,3 +1,6 @@
 .DS_Store
 venv/
 multilingual_docs
+.direnv/
+# `nix build` output folder
+result
