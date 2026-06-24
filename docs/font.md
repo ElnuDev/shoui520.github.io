@@ -1,6 +1,6 @@
 # Are you using the right font? 
 
-![Chinese vs Japanese font](img/font1.png)
+![Chinese vs Japanese font](img/font1.png){: .invertable-light }
 
 By default, your computer / phone will display kanji in a Chinese font. Japanese kanji look slightly different, and it can be damaging if you learn the Chinese appearance of kanji rather than the Japanese ones.  
 
@@ -9,13 +9,13 @@ By default, your computer / phone will display kanji in a Chinese font. Japanese
 The one character that looks strikingly different between Japanese and Chinese fonts is [直](https://jisho.org/search/%E7%9B%B4%20%23kanji) which is used in the word [直す](https://jpdb.io/search?q=%E7%9B%B4%E3%81%99) (*naosu*) which means *cure, heal, fix*.  
 
 <figure>
-  <img src="/img/font2.png" width="300" />
+  <img src="/img/font2.png" width="300" class="invertable-light" />
   <figcaption>Naosu in a Chinese font (DengXian)</figcaption>
 </figure>
 
 
 <figure>
-  <img src="/img/font3.png" width="300" />
+  <img src="/img/font3.png" width="300" class="invertable-light" />
   <figcaption>Naosu in a Japanese font (IPAex Gothic)</figcaption>
 </figure>
 
@@ -102,16 +102,18 @@ To counteract this, do the following:
 	They are there to separate the language values in that sentence, take care not to carelessly remove one.
 
 Before:
-![Firefox settings 1](img/font10.png)
+
+![Firefox settings 1](img/font10.png){: .invertable-dark .bg }
 
 After:
-![Firefox settings 2](img/font11.png)
+
+![Firefox settings 2](img/font11.png){: .invertable-dark .bg }
 
 ## Android
 
 Just add Japanese (it looks like this: 日本語) as a secondary language, it won't change your display language unless you move it to the top.  
 
-![Android settings](img/font9.jpg)
+![Android settings](img/font9.jpg){: .invertable-light .bg }
 
 ## iOS
 
@@ -122,7 +124,7 @@ Adding the Japanese keyboard (kana or romaji whatever works) should do the trick
 I think Chinese fonts on Anki cards looks the worst because kana will be sans-serif and kanji will be serif AND out of proportion AND Chinese so it looks all out of place.
 
 <figure>
-  <img src="/img/font4.png" width="900" />
+  <img src="/img/font4.png" width="900" class="invertable-light bg bw" />
   <figcaption>Oh god. Unironically a lot of people's cards look like this.</figcaption>
 </figure>
 
@@ -172,12 +174,12 @@ Now in Anki click "Add" then click on "Cards" and then "Styling" and modify your
 Preview:
 
 <figure>
-  <img src="/img/font5.png" width="900" />
+  <img src="/img/font5.png" width="900" class="invertable-light bg" />
   <figcaption>With a full Japanese definition.</figcaption>
 </figure>
 
 <figure>
-  <img src="/img/font6.png" width="900" />
+  <img src="/img/font6.png" width="900" class="invertable-light bg" />
   <figcaption>With a bilingual definition.</figcaption>
 </figure>
 
@@ -216,7 +218,7 @@ Using Popup CSS...
 
 
 <figure>
-  <img src="/img/font7.png" width="900" />
+  <img src="/img/font7.png" width="900" class="invertable-light bg" />
   <figcaption>Japanese to Japanese defintion with IPAexゴシック font.</figcaption>
 </figure>
 

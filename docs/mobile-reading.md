@@ -16,7 +16,7 @@ Download Hoshi Reader [here](https://github.com/HuangAntimony/Hoshi-Reader-Andro
 2. Allow the permission for the file manager app to install unknown apps if prompted.
 3. Tap "Install" once permission is granted.  
 
-![img](img/hoshireader_android_1.jpg){: style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }  
+![img](img/hoshireader_android_1.jpg){: .invertable-dark .bg style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
 
 Open the app and you will see the "Import EPUB" button, this is how you'll import a book into Hoshi Reader.
 
@@ -25,11 +25,15 @@ This will open the file picker, select an EPUB file to import your book.
 By default your books will appear as "Unshelved". The folder icon in the top-right is how you can manage your *Shelves*. This is useful for categorizing your books (plan to read, high priority, low priority, dropped, on hold, completed etc.)  
 
 To set up the pop-up dictionary, go to *Settings* then "Dictionaries". To import from .zip, tap the + in the top-right corner. Hoshi Reader can automatically fetch the latest version of JMdict with the "Download Recommended Dictionaries" option.  
-![img](img/hoshireader_android_3.jpg){: style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }  
+
+![img](img/hoshireader_android_3.jpg){: .invertable-dark .bg style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
+
 Start reading by tapping on your imported book in *Books*.  
 
 Tap on a word to trigger the pop-up dictionary.  
-![img](img/hoshireader_android_4.jpg){: style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }  
+
+![img](img/hoshireader_android_4.jpg){: .invertable-dark .bg style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
+
 You can adjust the appearance of the reader by tapping the settings button in the bottom-right corner. You can also adjust the size of the dictionary popup in this menu, at the bottom.  
 ![img](img/hoshireader_android_5.jpg){: style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }  
 ### Anki setup
@@ -39,13 +43,16 @@ This requires [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi
 In Hoshi Reader, go to *Settings* → *Anki* → tap *Fetch* in AnkiDroid. Allow the permission when prompted.  
 
 Then, choose the Anki deck.  
-![img](img/hoshireader_android_6.jpg){: style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }  
+
+![img](img/hoshireader_android_6.jpg){: .invertable-light .bg style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
+
 The card type "Model" will automatically be configured for Lapis, which is the recommended card type. The fields will also be automatically configured. For most people, the Anki setup is complete at this point.  
 
 
-You can then add Anki cards by opening a book, tapping a word to look it up then pressing the **+** button in the dictionary pop-up  
+You can then add Anki cards by opening a book, tapping a word to look it up then pressing the **+** button in the dictionary pop-up:
 
-![img](img/hoshireader_android_7.jpg){: style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }  
+![img](img/hoshireader_android_7.jpg){: .invertable-light .bg style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
+
 ### Local Audio
 
 Note: the local audio database uses 5.79GB of space on your device. Please ensure your device has sufficient space to not be out of space when the local audio database is imported to your device.
@@ -56,7 +63,9 @@ Download: [android.db](https://drive.google.com/file/d/1Fn11_nN04zM89yKFYBWVTi0X
 Setting up local audio is easy. You just need to import the android.db file. 
 
 Set it up: *Settings* → *Advanced* → *Audio* → Local Audio: Enable → tap "Import" and pick the `android.db` file.  
-![img](img/hoshireader_android_8.jpg){: style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }  
+
+![img](img/hoshireader_android_8.jpg){: .invertable-light .bg style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
+
 Hoshi Reader will automatically add the *Local* source and prefer it over the default source(s).  
 
 You are done!  
@@ -74,7 +83,7 @@ Additionally you can directly share books to Hoshi Reader when downloading books
 
 Hoshi Reader does not include any dictionaries out of the box. Navigate to *Settings* → *Dictionaries* to import your own Yomitan dictionaries or download a set of recommended dictionaries (JMdict, JMnedict, Jiten) by pressing on the button. You can reorder dictionaries by dragging and delete dictionaries by swiping left.
 
-![img](img/hoshireader_ios_3.png){: style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
+![img](img/hoshireader_ios_3.png){: .invertable-dark .bg style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
 
 Open a book and tap on a word to look it up.
 
@@ -100,7 +109,7 @@ Untick *Include media* and press on *Export to Share Sheet*. You should be able 
 
 If you mine on any other devices, it's recommended to import a fresh backup periodically to make sure it stays in sync.
 
-![img](img/hoshireader_ios_6.png){: style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
+![img](img/hoshireader_ios_6.png){: .invertable-dark .bg style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
 #### AnkiConnect
 
 If you don't have access to AnkiMobile, you can alternatively use Anki and [AnkiConnect](https://ankiweb.net/shared/info/2055492159) from your PC.
@@ -109,7 +118,7 @@ To set this up first of all make sure you have AnkiConnect installed in Anki. In
 
 Change the `webBindAddress` to `0.0.0.0`. Restart Anki.
 
-![img](img/hoshireader_ios_7.png){: style="max-height: 700px; width: auto; display: block; margin: 0 auto;" }
+![img](img/hoshireader_ios_7.png){: .invertable-light .bg style="max-height: 700px; width: auto; display: block; margin: 0 auto;" }
 
 You will need the local IPv4 address of your PC. To find your PC's IPv4 address you can open *Settings* → *Network & internet* → *Wi-Fi* or *Ethernet* depending on your connection on Windows, or *Settings* → *Wi-Fi* → *Details* on the connected network on macOS. Scroll down to find the IPv4 address (not the router/gateway address).
 
@@ -117,7 +126,7 @@ In Hoshi Reader navigate to *Settings* → *Advanced* → *AnkiConnect*. Tick *U
 
 Tap on *Connect*, you will be asked to allow Hoshi Reader to find devices on local networks. Tap *Allow* and tap on *Connect* again. A Windows Defender Firewall window may show up on your PC asking you to allow Anki to communicate on your local network. Press *Allow access*. If you aren't connected yet you may have to tap on *Connect* again. 
 
-![img](img/hoshireader_ios_8.png){: style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
+![img](img/hoshireader_ios_8.png){: .invertable-light .bg style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
 
 You can now follow the same steps to configure your deck and notetype in *Settings* → *Anki*. A backup is not needed when using AnkiConnect, duplicate checks will work out of the box. You will need to keep your PC on to mine cards.
 
@@ -133,7 +142,7 @@ Download: [android.db](https://drive.google.com/file/d/1Fn11_nN04zM89yKFYBWVTi0X
 
 Navigate to *Settings* → *Advanced* → *Audio*. Scroll down to the bottom and enable Local Audio. Tap on *Import* and choose the *android.db*. The database is copied into app storage, so you can delete the copy from your Downloads folder (don't press on the delete button in the app).
 
-![img](img/hoshireader_ios_10.png){: style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
+![img](img/hoshireader_ios_10.png){: .invertable-dark .bg style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
 
 Hoshi Reader will automatically add the *Local* source and prefer it over the default source(s).  
 
@@ -195,13 +204,13 @@ Download the latest APK from [GitHub Releases](https://github.com/sohilsayed/chi
 
 Open *Settings* → *Dictionary* → to access all settings related to dictionaries and anki. For anki lapis is used as default card type.
 
-![img](img/chimahon1_2_3.jpg){: style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
+![img](img/chimahon1_2_3.jpg){: .invertable-dark .bg style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
 
 ### Local Manga
 
 Tap the **+** icon in *Browse* → *Sources* to add a local manga image folder or archive (e.g. `.cbz`) files for offline reading. You can also select the `.mokuro` file directly alongside your manga.
 
-![img](img/chimahon4.jpeg){: style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
+![img](img/chimahon4.jpeg){: .invertable-dark .bg style="max-height: 800px; width: auto; display: block; margin: 0 auto;" }
 
 ### Mokuro
 

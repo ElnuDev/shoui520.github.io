@@ -45,12 +45,12 @@ So if the game tries to read a file with Japanese characters in it, or the game'
 
 	If you have bought your game on an optical disc, please insert the disc into your DVD drive. A new volume will appear on the Explorer sidebar, click on it and run the setup to proceed.  
 
-	![Image](img/vnwin-nopiracy1.png)
+	![Image](img/vnwin-nopiracy1.png){: .invertable-light .bg }
 
 	If you bought your game as digital download, it will come in a `.zip` file, extract it with [7-Zip](https://www.7-zip.org/)  
 	In some cases there will be no need for installation, in other cases you may need to install the game by running the setup and register with the DRM.  
 
-	![Image](img/vnwin-nopiracy2.png)  
+	![Image](img/vnwin-nopiracy2.png){: .invertable-light .bg }
 
 === "Pirated"
 
@@ -74,26 +74,26 @@ So if the game tries to read a file with Japanese characters in it, or the game'
 
 	> Right click the image > Select drive letter & mount > OK
 
-	![Image](img/vnwin2.jpg)  
+	![Image](img/vnwin2.jpg){: .invertable-light .bg }
 
 	After that,
 
-	![Image](img/vnwin3.jpg)  
+	![Image](img/vnwin3.jpg){: .invertable-light .bg }
 
 	The disc image is now mounted. You should see a new volume appear on your Explorer sidebar.
 
-	![Image](img/vnwin4.jpg)  
+	![Image](img/vnwin4.jpg){: .invertable-light .bg }
 
 	!!! info ".MDS/.MDF files"
 		It is a little different if you have .MDS/.MDF files, see below.  
 
-	![Image](img/vnwin5.jpg)
+	![Image](img/vnwin5.jpg){: .invertable-light .bg }
 
 ## Step 3. Installing the VN and applying patch
 
 Click on the new volume that appeared on your sidebar and run the installer. See below for details.  
 
-![Image](img/vnwin6.jpg)  
+![Image](img/vnwin6.jpg){: .invertable-light .bg }
 
 Proceed with the installation, you may want to take note of where you installed the game. I installed Angel Beats! into `D:\Games\KEY\AngelBeats!`
 

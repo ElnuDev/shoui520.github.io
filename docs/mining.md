@@ -25,7 +25,7 @@ Press ++enter++, and the actual Anki program will now be installed.
 When complete, it should say "Anki will start shortly. You can now close this window." Close the black terminal window.  
 Then, you should see a new window pop up like this:
 
-![Image](img/shouianki2.png)  
+![Image](img/shouianki2.png){: .invertable-light .bg }
 
 This sets the **display language**, for the user interface of Anki. Any language you can read is fine.  
 
@@ -43,9 +43,11 @@ Here are the add-on codes for the essential add-ons you *must* have.
 - AnkiConnect: `2055492159`
 - PassFail2: `876946123`
 
-![Image](img/shouianki3.png)  
-![Image](img/shouianki4.png) 
-![Image](img/shouianki5.png) 
+![Image](img/shouianki3.png){: .invertable-light .bg }
+
+![Image](img/shouianki4.png){: .invertable-light .bg }
+
+![Image](img/shouianki5.png){: .invertable-light .bg }
 
 After you have added all the add-ons, restart Anki by closing it out completely and reloading it.  
 
@@ -59,14 +61,14 @@ Load the deck into Anki by double clicking on the `.apkg` file. Alternatively yo
 
 Then, you should see this, import it by clicking **Import**:
 
-![Image](img/shouianki6.png)
+![Image](img/shouianki6.png){: .invertable-light .bg }
 
 After that, you can close the import window.  
 
 The deck is now imported. Now you need to adjust the *deck settings*.   
 
 Once you have a deck imported, click on the cog/gear icon then click "Options"
-![Image](img/shouianki7.png) 
+![Image](img/shouianki7.png){: .invertable-light .bg }
 
 Adjust the settings as follows:
 
@@ -88,7 +90,7 @@ Then:
 1. Download Lapis [here](https://github.com/donkuri/lapis/releases/download/v1.6.0/Lapis.apkg). You should get a .apkg file.  
 2. Import it into Anki, then after you import that apkg, delete the "Lapis" deck it leaves behind. We only need the note type.  
 3. In Anki, click "Create Deck" on the bottom. Give your deck a name (e.g. `Mining` and press OK)  
-3. Open the Yomitan settings by clicking the Yomitan icon ![yomitan-icon](img/yomitan-icon.png) in your browser toolbar, then the ![cog](img/yomitan-cog.png) cog icon.  
+3. Open the Yomitan settings by clicking the Yomitan icon ![yomitan-icon](img/yomitan-icon.png) in your browser toolbar, then the ![cog](img/yomitan-cog.png){: .invertable-light } cog icon.
 4. Click on "**Anki**" in the sidebar, then ENABLE **Enable Anki integration**.  
 5. Then click **Configure Anki flashcards…**
 6. Change "Deck" to the name of your deck you just created (e.g. `Mining`). Change the "Model" to `Lapis`.  
@@ -133,11 +135,11 @@ This is easy!
 
 All you need to do is hold ++shift++ over a word to show Yomitan, then press the green + button to add the card.  
 
-![Mining a card](img/mining1.png)  
+![Mining a card](img/mining1.png){: .invertable-light .bg }
 
 Here's the end result:
 
-![Mined card](img/mining2.png)  
+![Mined card](img/mining2.png){: .invertable-light .bg }
 
 That card is now in my Anki deck, ready to be learned.  
 

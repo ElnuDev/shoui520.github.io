@@ -9,9 +9,11 @@ If I told you 長 is read ちょう (chou), how would 帳, 張 and 脹 be read?
 
 ## The Usagi Chan Kanji Phonetics Deck  
 
-![gi](img/kanji_phonetics.png)  
-![kou](img/kanji_phonetics2.png)  
-![rin](img/kanji_phonetics3.png)  
+![gi](img/kanji_phonetics.png){: .invertable-light .bg }
+
+![kou](img/kanji_phonetics2.png){: .invertable-light .bg }
+
+![rin](img/kanji_phonetics3.png){: .invertable-light .bg }
 
 I made an Anki deck to teach you these components.  
 
