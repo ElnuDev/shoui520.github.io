@@ -41,6 +41,13 @@
       packages.${system}.default = pkgs.stdenv.mkDerivation {
         name = "themoeway";
 
+        meta = with pkgs.lib; {
+          description = "learnjapanese.moe (TheMoeWay) MkDocs site";
+          homepage = "https://learnjapanese.moe";
+          license = licenses.gpl3Only;
+          platforms = platforms.all;
+        };
+
         src = ./.;
 
         nativeBuildInputs = [ pythonEnv ];
