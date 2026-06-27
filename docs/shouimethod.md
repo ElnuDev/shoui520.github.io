@@ -587,7 +587,7 @@ Now change some very important Yomitan settings:
 
 Under "Popup Behavior", ENABLE **Allow scanning popup content**. Set the **Maximum number of child popups** to `9999`  
 
-![Image](img/shouiyomitan1.png)  
+![Image](img/shouiyomitan1.png){: .invertable-light .bg }
 
 Without this, you won't be able to look up Japanese words in dictionary entries. With this enabled, the process becomes much easier, you can infinitely look up words within entries.  
 
@@ -598,13 +598,14 @@ If you find it too distracting you don't need to enable it though.
 
 Also, the default pop up size on Yomitan is stupidly tiny. Double the size here:
 
-![Image](img/shouiyomi3.png)  
+![Image](img/shouiyomi3.png){: .invertable-light .bg }
 
 Width=800, Height=500.  
 
 Lastly, TURN OFF this stupid thing:
 
-![Image](img/shouiyomi2.png)
+![Image](img/shouiyomi2.png){: .invertable-light .bg }
+
 ## Anki setup
 
 The Anki card type I used for the majority of my Japanese learning journey was the [Animecards](https://animecards.site) format, but with the front modified to include both the word and the sentence.  
@@ -625,7 +626,7 @@ Press ++enter++, and the actual Anki program will now be installed.
 When complete, it should say "Anki will start shortly. You can now close this window." Close the black terminal window.  
 Then, you should see a new window pop up like this:
 
-![Image](img/shouianki2.png)  
+![Image](img/shouianki2.png){: .invertable-light .bg }
 
 This sets the **display language**, for the user interface of Anki. Any language you can read is fine.  
 
@@ -647,9 +648,11 @@ Here are the add-on codes for all essential add-ons you *must* have.
 - Local Audio Server for Yomichan: `1045800357`
 - Advanced Browser: `874215009`  
 
-![Image](img/shouianki3.png)  
-![Image](img/shouianki4.png) 
-![Image](img/shouianki5.png) 
+![Image](img/shouianki3.png){: .invertable-light .bg }
+
+![Image](img/shouianki4.png){: .invertable-light .bg }
+
+![Image](img/shouianki5.png){: .invertable-light .bg }
 
 After you have added all the add-ons, restart Anki by closing it out completely and reloading it.  
 
@@ -663,7 +666,7 @@ Load the deck into Anki by double clicking on the `.apkg` file. Alternatively yo
 
 Then, you should see this, import it by clicking **Import**:
 
-![Image](img/shouianki6.png)
+![Image](img/shouianki6.png){: .invertable-light .bg }
 
 After that, you can close the import window.  
 
@@ -672,7 +675,8 @@ The deck is now imported. Now you need to adjust the *deck settings*. This will 
 ### Global deck settings
 
 Once you have a deck imported, click on the cog/gear icon then click "Options"
-![Image](img/shouianki7.png) 
+
+![Image](img/shouianki7.png){: .invertable-light .bg }
 
 Adjust the settings as follows:
 
@@ -684,8 +688,10 @@ Adjust the settings as follows:
 
 *The desired retention I used personally was <b>95%</b>, if you really want to copy me, use that, at your own discretion, but I think that might be too much for most people. 80%-90% is best for most. FSRS didn't exist for the majority of my JP learning journey, but I think it's marginally better than the stock Anki algorithm.  
 Additionally, you should consider reoptimizing FSRS parameters every now and then.  
-![Image](img/shouianki8.png)
-![Image](img/shouianki9.png)  
+
+![Image](img/shouianki8.png){: .invertable-light .bg }
+
+![Image](img/shouianki9.png){: .invertable-light .bg }
 
 You are now ready to learn with Kaishi, and any other deck.  
 ### Mining setup w/ Lapis (shoui method)  
@@ -703,7 +709,7 @@ Then:
 1. Download Lapis [here](https://github.com/donkuri/lapis/releases/download/v1.6.0/Lapis.apkg)
 2. Import it into Anki, then after you import that apkg, delete the deck it leaves behind. We only need the note type.  
 3. In Anki, click "Create Deck" on the bottom. Give your deck a name (e.g. `Mining` and press OK)  
-3. Open the Yomitan settings by clicking the Yomitan icon ![yomitan-icon](img/yomitan-icon.png) in your browser toolbar, then the ![cog](img/yomitan-cog.png) cog icon.  
+3. Open the Yomitan settings by clicking the Yomitan icon ![yomitan-icon](img/yomitan-icon.png) in your browser toolbar, then the ![cog](img/yomitan-cog.png){: .invertable-light } cog icon.
 4. Click on "**Anki**" in the sidebar, then ENABLE **Enable Anki integration**.  
 5. Then click **Configure Anki flashcards…**
 6. Change "Deck" to the name of your deck you just created (e.g. `Mining`). Change the "Model" to `Lapis`.  
@@ -833,7 +839,8 @@ Also, I recommend putting the local audio .tar.xz file on an SSD, not a mechanic
 
 Then, for this new `.tar` file, do the same: **RIGHT CLICK** the `.tar` > **7-Zip/NanaZip** > **Extract to %folder%** to extract all the local audios. This will take a long while.   
 
-![Image](img/shouilocalaudio5.png)  
+![Image](img/shouilocalaudio5.png){: .invertable-light .bg }
+
 After that is done, you should see a `user_files` folder. You need to move this to the correct location: here's how to do that👇 
 
 
@@ -841,19 +848,22 @@ After that is done, you should see a `user_files` folder. You need to move this 
 In Anki, navigate to `Tools` → `Add-ons`, then click on the `Local Audio Server for Yomichan`, then click `View files`.
 
 
-![Image](img/shouilocalaudio1.png)  
+![Image](img/shouilocalaudio1.png){: .invertable-light .bg }
 
 This path is `%APPDATA%\Anki2\addons21\1045800357`. You can also access it by pasting it into ++win++++r++  
 
 Find your extracted .tar folder, inside, there should be a `user_files` folder.  
 MOVE the entire "`user_files`" folder into the local audio addon folder, so it looks like this, and replaces the empty `user_files` folder already there:  
-![Image](img/shouilocalaudio4.png)  
-![Image](img/shouilocalaudio2.png) 
+
+![Image](img/shouilocalaudio4.png){: .invertable-light .bg }
+
+![Image](img/shouilocalaudio2.png){: .invertable-light .bg }
 
 You are nearly done!  
 Now you need to just regenerate the local audio database!  
 `Tools` → `Local Audio Server` → `Regenerate database`  
-![Image](img/shouilocalaudio3.png)  
+
+![Image](img/shouilocalaudio3.png){: .invertable-light .bg }
 
 <h3> LAST STEP! </h3>
 
@@ -867,13 +877,15 @@ Now you need to just regenerate the local audio database!
 
 It has to be "JSON"! Not "Custom URL" without the JSON!  
 
-![Image](img/shouilocalaudio6.png)  
+![Image](img/shouilocalaudio6.png){: .invertable-light .bg }
+
 You're done! 🎉
 
 ### Yomitan setup (Monolingual)
 Under "Popup Behavior", ENABLE **Allow scanning popup content**. Set the **Maximum number of child popups** to `9999`  
 
-![Image](img/shouiyomitan1.png)  
+![Image](img/shouiyomitan1.png){: .invertable-light .bg }
+
 My monolingual setup has evolved over the years. I can tell you what I did in the past, and what I recommend right now.  
 
 #### Backstory 
@@ -1070,9 +1082,12 @@ But I have always customized my settings. My eyes aren't very good.
 
 How it looks (vertical)  
 
-![Image](img/shouittsu_tate.png)
+![Image](img/shouittsu_tate.png){: .invertable-light .bg }
+
 How it looks (horizontal)
-![Image](img/shouittsu_yoko.png)
+
+![Image](img/shouittsu_yoko.png){: .invertable-light .bg }
+
 This is a very "shoui method" part of the setup. I am not even sure people would want to copy me on this one, but I genuinely think my setup is awesome.  
 
 I am a HUGE MS明朝 shill. Because I found that if bolded and made big enough, it looks like literal ink on my 1080p monitor. It's SO crisp. 

@@ -87,9 +87,12 @@ Here's how I recommend you play your VNs:
 Add a KDE window rule like this to "lock" the VirtualBox VM scaled window:
 
 Example, for 4:3
-![Image](img/vnlinux_vmwindowrule4x3.png)
+
+![Image](img/vnlinux_vmwindowrule4x3.png){: .invertable-light .bg .bw }
+
 Example, for 16:9
-![Image](img/vnlinux_vmwindowrule16x9.png)
+
+![Image](img/vnlinux_vmwindowrule16x9.png){: .invertable-light .bg .bw }
 
 ### Troubleshooting
 
@@ -228,7 +231,7 @@ With VirtualBox running on a single core, the VM will run slower and with higher
 
 	As compatibility with games can vary with different Proton-GE versions, use Proton-GE 9.10 for the same environment as this guide was tested on. 
 
-	![Protonup-qt](img/new_vn_linux1.png)
+	![Protonup-qt](img/new_vn_linux1.png){: .invertable-light .bg }
 
 	### Install / Run the Visual Novel
 	What you need to do in Lutris now depends on whether the VN is already installed or not.  
@@ -248,15 +251,16 @@ With VirtualBox running on a single core, the VM will run slower and with higher
 		cdemu load 0 /path/to/disc_image.mds
 		```
 		The disc image will now be loaded into a virtual DVD drive. You can mount it through your desktop environment, or mount manually with `mount` e.g. `mount /dev/sr0 /media/cdrom`  
-		![Mount Image](img/new_vn_linux3.png)  
+
+		![Mount Image](img/new_vn_linux3.png){: .invertable-light .bg }
 
 		In Lutris, make sure you set the default Wine version for the Wine runner to the Proton-GE version you installed with ProtonUp-Qt.
 
-		![Lutris runners 1](img/new_vn_linux7.png)
-		![Lutris runners 2](img/new_vn_linux8.png)
+		![Lutris runners 1](img/new_vn_linux7.png){: .invertable-light }
+		![Lutris runners 2](img/new_vn_linux8.png){: .invertable-light }
 
 		Then you need to set the correct environment variables.  
-		![Lutris environment variables](img/new_vn_linux12.png)
+		![Lutris environment variables](img/new_vn_linux12.png){: .invertable-light }
 
 		| Key    | Value |
 		| -------- | ------- |
@@ -266,20 +270,20 @@ With VirtualBox running on a single core, the VM will run slower and with higher
 
 		Now in Lutris, click the `+` in the top left corner to add a game, then in the window that pops up, choose `Install a Windows game from an executable`
 
-		![Lutris menu](img/new_vn_linux2.png)
+		![Lutris menu](img/new_vn_linux2.png){: .invertable-light }
 
 		It is recommended to use Japanese locale when running visual novels, even on Windows.  
 
-		![Lutris - set locale](img/new_vn_linux4.png)
+		![Lutris - set locale](img/new_vn_linux4.png){: .invertable-light }
 
 		Set the Wine prefix directory. This is not the path for the install files.  
 
 		**USE A BLANK PREFIX.** I suggest `~/Games/VNs`. This prefix can be used for all your other VNs as long as **the same Wine version is used**- using a different Wine version on a prefix that was made with another version can actually render the prefix unusable!  
 
-		![Lutris - wine prefix](img/new_vn_linux5.png)
+		![Lutris - wine prefix](img/new_vn_linux5.png){: .invertable-light }
 
 		Choose the setup executable for the VN's installer.
-		![Lutris - choose executable](img/new_vn_linux9.png)
+		![Lutris - choose executable](img/new_vn_linux9.png){: .invertable-light }
 
 		Proceed with the installation. I do not recommend installing DirectX from the VN installer, always say no to that. When complete, Lutris should automatically set the game executable path to the game's run executable defined in the installer info/registry. 
 
@@ -293,15 +297,15 @@ With VirtualBox running on a single core, the VM will run slower and with higher
 
 		
 
-		![Lutris runners 1](img/new_vn_linux7.png)
+		![Lutris runners 1](img/new_vn_linux7.png){: .invertable-light .bg }
 
 		Set the Wine version to GE-Proton9-10.
 
-		![Lutris runners 2](img/new_vn_linux8.png)
+		![Lutris runners 2](img/new_vn_linux8.png){: .invertable-light .bg }
 
 		Then you need to set the correct environment variables. 
 
-		![Lutris environment variables](img/new_vn_linux12.png)
+		![Lutris environment variables](img/new_vn_linux12.png){: .invertable-light .bg }
 
 		| Key    | Value |
 		| -------- | ------- |
@@ -310,14 +314,14 @@ With VirtualBox running on a single core, the VM will run slower and with higher
 
 		Now in Lutris, click the `+` icon in the top left corner, and choose `Add locally installed game`
 
-		![Lutris add local game](img/new_vn_linux13.png)
+		![Lutris add local game](img/new_vn_linux13.png){: .invertable-light .bg }
 
 		Set the runner to Wine. The runner settings should automatically be correct if you followed the previous steps.  
 
-		![Lutris set runner](img/new_vn_linux14.png)
+		![Lutris set runner](img/new_vn_linux14.png){: .invertable-light .bg }
 
 		Now set the path to the game executable, and set the Wine prefix. This Wine prefix has to be a blank one if using Proton-GE on a prefix for the first time. After you run one VN in that prefix using that Proton-GE version, you can share the prefix for other VNs too.
-		![Lutris set exe and prefix](img/new_vn_linux15.png)  
+		![Lutris set exe and prefix](img/new_vn_linux15.png){: .invertable-light .bg }
 
 		After that you are ready to play your VN on Linux!
 
@@ -335,7 +339,7 @@ With VirtualBox running on a single core, the VM will run slower and with higher
 
 	I used the "Run EXE inside Wine prefix" option in Lutris to install Textractor to the prefix. For some reason, trying to install it like a new game just doesn't work for me.  
 
-	![Lutris run exe in prefix](img/new_vn_linux16.png)  
+	![Lutris run exe in prefix](img/new_vn_linux16.png){: .invertable-light .bg }
 
 	I used the "Install for all users" option when installing. 
 
@@ -395,7 +399,8 @@ With VirtualBox running on a single core, the VM will run slower and with higher
 	/k /path/to/startup_script.bat
 	```
 	I recommend creating a folder called `scripts/` or something in the root of your Wine prefix for easy access.  
-	![Lutris run bat file](img/new_vn_linux17.png)  
+
+	![Lutris run bat file](img/new_vn_linux17.png){: .invertable-light .bg }
 
 	You will need to create a startup script for every VN you add, but this isn't complicated as it just involves editing file paths.  
 
@@ -444,6 +449,7 @@ With VirtualBox running on a single core, the VM will run slower and with higher
 	It is actually not a Wine specific error, it happens on Windows too! These games are just made that way. 
 
 	![Game not installed - Wine](img/new_vn_linux10.png)  
+
 	![Game not installed - Windows](img/new_vn_linux11.png)
 
 

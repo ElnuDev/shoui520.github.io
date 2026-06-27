@@ -54,7 +54,7 @@ You can switch between these two by either:
 Windows remembers what input mode you were in, **per-app**. It is not a system-wide setting.   
 The default mode is Direct Input (*A* icon), so you will most likely be using ++alt++++grave++ whenever you want to type in Japanese.  
 ??? info "An infamous IME quirk"
-	![ime in top left corner](img/ime1.png)  
+	![ime in top left corner](img/ime1.png){: .invertable-light }
 	Most modern applications will ignore the IME if a textbox is not in focus, but older Windows programs (such as Computer Management) and Java applications (such as Minecraft) can activate the IME in the "あ” mode, even if a textbox is not in focus.  
 	You will see the IME appear in the top-left corner of your screen, like shown in the picture above. You can try this out by opening Computer Management, enabling the あ mode with ++alt++++grave++, and start typing.  
 	For this reason, it is good practice to stay in the *A* mode, or ++win++++space++ to the English keyboard if it gets in your way.  

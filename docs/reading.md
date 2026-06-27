@@ -46,14 +46,19 @@ I seriously recommend you read novels on this site: [Itazuraneko Old Library](ht
 Your first light novel will be extremely painful, but your second light novel won't be as painful. Expect a light novel to take a 1-3 months to finish reading when you're first starting out, it will get quicker overtime (I can finish a light novel in around 10 hours). Just read more, read a lot.  
 Reading scans or physicals like these is not recommended, because it is hard to look up words from it. 
 Note: I am not against 縦書き, (vertical text), the image below is an example of a *scan*.  
-![LN 1](img/ln1.jpg)
+
+![LN 1](img/ln1.jpg){: .invertable-light .bg }
+
 *Novel: Hibike! Euphonium*
 
 ![LN 2](img/ln2.jpg)
+
 *Novel: Nichijou no Natsuyasumi*
 
 You need to read stuff like this:
-[![LN 3](img/ln3.jpg)](img/ln3.jpg)
+
+[![LN 3](img/ln3.jpg){: .invertable-light .bg }](img/ln3.jpg){: target="_blank" }
+
 *Novel: Kimi no Na wa.*  
 *Click to enlarge*
 

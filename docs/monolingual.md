@@ -70,34 +70,37 @@ If you want guidelines on what to mine, then just mine every single word after y
 
 **I recommend doing the monolingual transition with Yomichan.**  
 
-![Image](img/monodemo1.png)
+![Image](img/monodemo1.png){: .invertable-dark }
 
 Yomichan is a browser extension that allows you to look up Japanese words on a webpage by holding ++shift++ and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out how to set up Yomichan [here](/yomichan)  
 
 ### Optimizing Yomichan Settings 
 
 First you need to ensure that Advanced options is enabled.  
-![Image](img/mono1.jpg)
+
+![Image](img/mono1.jpg){: .invertable-light .bg }
 
 Second, we want to remove any and all scan delays because we will be making heavy use of this extension and wouldn't want to be slowed down by anything.  
 
-![Image](img/mono2.jpg)
+![Image](img/mono2.jpg){: .invertable-light .bg }
 
 Now we will enable scanning within pop-ups, this is very important, as we want to be able to look up any words we don't know within a **definiton.**  
-![Image](img/mono3.jpg)  
+
+![Image](img/mono3.jpg){: .invertable-light .bg }
 
 You may want to increase the size of your Yomichan pop up window because by default it is pretty small and will become a hindrance when using monolingual dictionaries. To make enough headroom to use Yomichan dictionaries comfortably we are going to edit the following settings.  
 
-![Image](img/mono4.jpg)  
+![Image](img/mono4.jpg){: .invertable-light .bg }
 
 Here's how our pop up looks now:  
-![Image](img/mono5.jpg) 
+
+![Image](img/mono5.jpg){: .invertable-dark .bg }
 
 Next, if you want, you don't need to but I recommend it, enable automatic audio playback, so we know how to pronounce a word correctly the moment we look it up. Also add the extra audio source because surprisingly it adds extra audio!  
 
 You can also add the Forvo audio source in Yomichan. See [Yomichan Setup Tutorial](/yomichan) for more info.  
 
-![Image](img/mono6.jpg)  
+![Image](img/mono6.jpg){: .invertable-light .bg }
 
 **Update December 2021:** You should also add a text replacement rule for words with kanji repetition marks, they usually do not appear in monolingual dictionaries unless you repeat the kanji itself. Example:　囂々 won't appear in most monolingual dictionaries but 囂囂 will.
 Go to Settings -> Translation -> Custom Text Replacement Patterns and add the following rule:  
@@ -187,7 +190,7 @@ Import the set of dictionaries that best suits you in [Recommended Dictionaries]
 
 ※ You can change dictionary priority so you can match the order by editing the number next to the dictionary. Higher the number = higher up in list.
 
-![Image](img/mono8.jpg)  
+![Image](img/mono8.jpg){: .invertable-light .bg }
 
 ### Why do you say use a lot of dictionaries?
 
@@ -221,7 +224,7 @@ You’re gonna be learning Japanese for a long time, so it is possible that your
 ### Yomichan Offline
 You can still use Yomichan offline. Here’s how.
 
-![Image](img/mono9.jpg)
+![Image](img/mono9.jpg){: .invertable-light .bg }
 
 That’s how.
 

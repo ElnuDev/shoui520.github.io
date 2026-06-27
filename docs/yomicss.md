@@ -52,7 +52,8 @@ With the following CSS:
 }
 ```
 The result:  
-![Yomichan CSS Demo](img/yomicss1.jpg)  
+
+![Yomichan CSS Demo](img/yomicss1.jpg){: .invertable-light .bg }
 
 This demonstrates differing font colors for kanji and kana. You may edit this to your heart's content.
 
@@ -83,6 +84,7 @@ With the following CSS:
 }
 ```  
 The result:
+
 ![Yomichan CSS Demo](img/yomicss2.jpg)  
 
 This demonstrates the changing of font for definitions to MS Mincho. Linux users may be able to use `Noto Serif CJK JP` as an alternative. 
@@ -101,6 +103,7 @@ With the following CSS:
 }
 ```  
 The result:
+
 ![Yomichan CSS Demo](img/yomicss3.jpg)  
 
 You may edit this to your heart's content.  
@@ -137,6 +140,7 @@ With the following CSS:
 ```
 
 The result:    
+
 ![Yomichan CSS Demo](img/yomicss4.jpg)   
 
 You may edit this to your heart's content.  
@@ -237,6 +241,7 @@ body {
 ```  
 
 The result:  
+
 ![Yomichan CSS Demo](img/yomicssnord.jpg)  
 
 ## Background
@@ -260,6 +265,7 @@ body {
 ```
 
 The result:
+
 ![Yomichan CSS Demo](img/yomicss5.jpg)
 
 You may edit this to your heart's content.  
@@ -310,7 +316,7 @@ With the following CSS:
 ```
 
 The result:
-![Yomichan CSS Demo](img/yomicss6.jpg)  
+![Yomichan CSS Demo](img/yomicss6.jpg){: .invertable-light }
 
 ### Removing progress bar
 
@@ -340,7 +346,8 @@ If you are using dark theme you need to have this instead:
 ```  
   
 The result:  
-![Yomichan CSS Demo](img/yomicss7.jpg) 
+
+![Yomichan CSS Demo](img/yomicss7.jpg){: .invertable-light }
 
 ### Removing Edict markers
 
@@ -356,7 +363,7 @@ You can remove it by using the CSS below:
 ```
 
 The result:  
-![Yomichan CSS Demo](img/yomicss8.jpg)
+![Yomichan CSS Demo](img/yomicss8.jpg){: .invertable-light }
 
 
 ### Light / Dark mode varying CSS

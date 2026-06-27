@@ -28,7 +28,7 @@ I recommend you install the following dictionaries:
 ## Installing dictionaries and basic usage
   
 1. Click on the ![yomitan-icon](img/yomitan-icon.png) icon in the browser toolbar.  
-2. Click on the ![cog](img/yomitan-cog.png) icon to access the settings page.  
+2. Click on the ![cog](img/yomitan-cog.png){: .invertable-light } icon to access the settings page.
 3. On the left sidebar, click on "Dictionaries" and then click on "Configure installed and enabled dictionaries…"  
 4. Click the "Import" button on the bottom.  
 5. Here's where you select the dictionaries to import. Please only import the following. 
@@ -41,14 +41,14 @@ I recommend you install the following dictionaries:
 6. Please wait for the dictionaries to import. This could take a while.
 7. Once complete, you can test Yomitan by holding down the ++shift++ key and hovering over Japanese text. Here is a sample: 日本語. It will display a pop up box displaying the definitions separated by dictionary.  
 
-![Yomichan Demo](img/yomidemo1.png) 
+![Yomichan Demo](img/yomidemo1.png){: .invertable-light .bg }
 
 Click anywhere outside of the box or press the ++esc++ key to dismiss.
 Click on an individual kanji in the headword to view kanji information (only functional with KANJIDIC installed).
 
-You can click the ![audio](img/yomichan-audio.png) button to hear the word being pronounced by a native speaker.
+You can click the ![audio](img/yomichan-audio.png){: .invertable-light } button to hear the word being pronounced by a native speaker.
 
-In your browser extensions toolbar, if you click on the Yomitan logo, then on the ![search icon](img/yomitan-search.png) icon or by using the ++alt+insert++ keyboard shortcut, you can access Yomitan Search, this is where you can use Yomitan as a standalone Japanese to English dictionary. 
+In your browser extensions toolbar, if you click on the Yomitan logo, then on the ![search icon](img/yomitan-search.png){: .invertable-light } icon or by using the ++alt+insert++ keyboard shortcut, you can access Yomitan Search, this is where you can use Yomitan as a standalone Japanese to English dictionary.
 
 Pop up box size can be edited with advanced settings enabled.  
 A full dark mode can be enabled in the settings too.  
@@ -111,6 +111,7 @@ Firefox:
 ## Bonus: Android use with Edge Canary
 
 ![Yomitan on Android](img/yomichan_android_updated.jpg)
+
 See [mobile readers](/mobile-reading).  
 
 ## Anki Setup

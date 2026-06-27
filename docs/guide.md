@@ -114,7 +114,7 @@ The learning process for the beginner consists of:
 ## 2.2 Hiragana and Katakana  
 
 <figure>
-  <img src="/img/kana3.png" style="display: block; margin: 0 auto;" / alt="HIRAGANA AND KATAKANA IN SCRIPTS">
+  <img src="/img/kana3.png" class="invertable-light" style="display: block; margin: 0 auto;" / alt="HIRAGANA AND KATAKANA IN SCRIPTS">
   <figcaption>"Hiragana" and "Katakana" written in their scripts respectively.</figcaption>
 </figure> 
 
@@ -258,7 +258,7 @@ Kanji study methods have been a matter of debate for as long as learning Japanes
 
 While they may look like random shapes, kanji are actually formed from common components. Take for example the kanji **萌**, that is being used as the icon for this website. It is actually made up from 3 common kanji components that are used in lots of other kanji as well. 
 
-![Kanji](img/kanji.png)   
+![Kanji](img/kanji.png){: .invertable-light}
 
 While optional, learners that are struggling to tell apart different kanji may want to try studying kanji by their components in isolation. An additional *Anki deck* (explained in the next section) can be used to do this. You can find the deck [here.](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
 
@@ -271,7 +271,7 @@ Anki is a flashcard program designed to help you remember large amounts of infor
 
 Visit the [Anki download page](https://apps.ankiweb.net/), and download the version of Anki for your system and install it. 
 <figure>
-  <img src="/img/ankidownload.png" / alt="Anki Download Page">
+  <img src="/img/ankidownload.png" class="invertable-light bg" / alt="Anki Download Page">
   <figcaption>Download the one for your system.</figcaption>
 </figure>  
 
@@ -295,7 +295,7 @@ Please note that while *Kaishi 1.5k* includes sentences, it is only designed to 
 
 When seeing an unfamiliar Anki card for the first time, the general rule of thumb is to click *Show Answer* so you can see what's on the back of the card.   
 <figure>
-  <img src="/img/ankikaishi.png" / alt="Anki Kaishi Deck">
+  <img src="/img/ankikaishi.png" class="invertable-light bg" / alt="Anki Kaishi Deck">
   <figcaption>The pieces of information you need to memorise.</figcaption>
 </figure>  
 Once you have had a good look, press *Again* (this is short for try again). You will be on the next card, do the same thing as it is also a card you are seeing for the first time.  
