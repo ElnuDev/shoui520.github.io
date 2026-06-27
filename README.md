@@ -1,19 +1,29 @@
-[https://learnjapanese.moe](https://learnjapanese.moe)
+<p align="center">
+  <img alt="TheMoeWay" src="docs/img/welcome.png" />
+</p>
 
-# Repository for learnjapanese.moe (TheMoeWay)  
+# Repository for [learnjapanese.moe](https://learnjapanese.moe) (TheMoeWay)
 
 Made with Material for Mkdocs
 
-# Running  
+# Running
+
+**Nix/NixOS:**
+
+```sh
+git clone https://github.com/shoui520/shoui520.github.io.git && cd shoui520.github.io/
+nix develop
+mkdocs serve
 ```
-sudo apt install git python3 python3-venv 
+
+**Debian:**
+
+```sh
+sudo apt install git python3 python3-venv
 git clone https://github.com/shoui520/shoui520.github.io.git && cd shoui520.github.io/
 python3 -m venv venv
 source venv/bin/activate
 pip3 install mkdocs-material mkdocs-open-in-new-tab click<8.3
 mkdocs serve
 ```
-
-
-
 
