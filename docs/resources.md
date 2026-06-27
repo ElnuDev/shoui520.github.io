@@ -219,6 +219,7 @@ Note: visual novels on consoles do not have any NSFW content.
 - [Memento](https://github.com/ripose-jp/Memento) - Video player solution for looking up words and mining from anime.
 - [asbplayer](https://killergerbah.github.io/asbplayer/) - Chrome extension that lets you put any subtitle on any video and mine from it.
 - [Remove non-Japanese videos from YouTube](https://www.reddit.com/r/ajatt/comments/1ozfztt/no_more_separate_accounts_needed_for_youtube/)
+- [Anki Miner](https://github.com/0xzerolight/anki_miner) - Automated Japanese vocabulary batch-mining from media.
 ### Ebooks
 - **[※ ッツ Ebook Reader](https://reader.ttsu.app/)** - Japanese book reader that supports EPUB and HTMLZ. Text is displayed in 縦書き (vertical text) by default. This is one of the best options for an authentic experience reading Japanese books.
 #### Android apps
