@@ -11,8 +11,6 @@
 
 **Important Note:** [Reading a lot](/readingtips) is the best way to learn kanji. This means you should learn kanji through learning to read words. We have linked Kaishi 1.5k as a deck to "learn kanji" this way. However, you can seek alternatives below if you keep forgetting how to read words you come across, or if you want to learn how to write.  
 
-<!-- Kanken Deck entries are mirrored with the Handwriting section. If you edit, update both. -->
-
 - [Kaishi 1.5k](https://ankiweb.net/shared/info/1196762551) - The basic vocabulary deck the guide suggests to learn Japanese. You can also find it [here](https://github.com/donkuri/Kaishi/releases) (click on the `.apkg` file).
 - **[※ - The "Kanken Deck"](https://mega.nz/file/VVdkUZbI#lGvxw2hDkw7JCEWa90cViY7cpYatf1SPUrE0Aw0OdDQ) - The best way to learn how to write when you can already read.**
 - **[※ - The "Kanken Deck With Stroke Animations"](https://drive.google.com/file/d/1o5Vc237S44FxACkhAd_3_bzOtxMusd2T/view) - The best way to learn how to write when you can already read. with stroke animations**
@@ -75,10 +73,10 @@ Also check out the grammar dictionaries for Yomitan in my dictionary collection.
 
 ### JLPT Past Exams
 
-[Đề Thi Tiếng Nhật N5-N1 practice tests](https://dethitiengnhat.com/)
-[JLPT N1 past papers MEGA folder](https://mega.nz/folder/Q0BV0SDD#K-A9VyQn3rj5lX_fjRoqqQ)
-[JLPT N1 past papers Google Drive](https://drive.google.com/drive/folders/1U7Yt9I1S7tgNRRBMLv9xRIeNCZAd_6OE?usp=drive_link)
-[LearnJapaneseAZ JLPT N1 Practice Test](https://learnjapaneseaz.com/jlpt-n1-practice-test.html)
+- [Đề Thi Tiếng Nhật N5-N1 practice tests](https://dethitiengnhat.com/)   
+- [JLPT N1 past papers MEGA folder](https://mega.nz/folder/Q0BV0SDD#K-A9VyQn3rj5lX_fjRoqqQ)  
+- [JLPT N1 past papers Google Drive](https://drive.google.com/drive/folders/1U7Yt9I1S7tgNRRBMLv9xRIeNCZAd_6OE?usp=drive_link)  
+- [LearnJapaneseAZ JLPT N1 Practice Test](https://learnjapaneseaz.com/jlpt-n1-practice-test.html)  
 ---
 ## Immersion Content
 ### Anime
@@ -347,18 +345,14 @@ See Applications section for an EPWING reader.
 
 ## Handwriting
 
-<!-- Kanken Deck entries are mirrored with the Kanji section. If you edit, update both. -->
-
 - [Tegaki Tuesday](https://tegakituesday.com/) - Tegaki Tuesday is a weekly handwriting challenge hosted on Discord that provides handwriting practice and gives learners an opportunity to get feedback on handwriting. There's also a Kanji of the Day challenge, along with a short [getting started guide](https://tegakituesday.com/getting-started).
 - YouTube channels
-    - [Seiho's YouTube Calligraphy School](https://www.youtube.com/watch?v=dQwaH1Dqwcg) - Seiho's handwriting is a good reference for learning, as opposed to computer fonts, which can deviate significantly from how Japanese is actually written by hand. If you're just starting out, see his videos on [hiragana](https://www.youtube.com/watch?v=dQwaH1Dqwcg) and [katakana](https://www.youtube.com/watch?v=zv6uxNdROOc), and copy out the kana chart on gridded paper.
-    - [Japanese Calligrapher Takumi](https://www.youtube.com/@takumitohgu) - Takumi's handwriting is also a good reference for learning, but is less calligraphic. He also has videos on [hiragana](https://www.youtube.com/watch?v=wD3FJgij79c) and [katakana](https://www.youtube.com/watch?v=rf-n_qI2occ).
-    - [Hasegawa Yuki](https://www.youtube.com/@hasegawayuki)
-        - Five things to focus on seminar (1:34:48) - [【激変する美文字セミナー】クセ字の改善法から達筆のコツまで！ペン字上達は「5つの事」を意識する](https://www.youtube.com/watch?v=Qqko3fMv74Y)
-        - Improving your stroke quality (13:37) - [“線質”向上のための第一歩！練習方法とコツ【美文字・ペン字】](https://www.youtube.com/watch?v=6XZwrhws-_U)
-    - [Seido Japanese Calligraphy](https://www.youtube.com/@seido-shodo)
-    - [Seiho's YouTube Calligraphy School](https://www.youtube.com/@seihou)
-        - Jōyō kanji playlist - [常用漢字の美文字レッスン](https://www.youtube.com/playlist?list=PLxNYIx5D9tAbYXKgTDmy7KJ8Z7u74hwKz)
+- [Seiho's YouTube Calligraphy School](https://www.youtube.com/watch?v=dQwaH1Dqwcg) - Seiho's handwriting is a good reference for learning, as opposed to computer fonts, which can deviate significantly from how Japanese is actually written by hand. If you're just starting out, see his videos on [hiragana](https://www.youtube.com/watch?v=dQwaH1Dqwcg) and [katakana](https://www.youtube.com/watch?v=zv6uxNdROOc), and copy out the kana chart on gridded paper.
+- [Japanese Calligrapher Takumi](https://www.youtube.com/@takumitohgu) - Takumi's handwriting is also a good reference for learning, but is less calligraphic. He also has videos on [hiragana](https://www.youtube.com/watch?v=wD3FJgij79c) and [katakana](https://www.youtube.com/watch?v=rf-n_qI2occ).
+ - [Hasegawa Yuki](https://www.youtube.com/@hasegawayuki)
+- [Seido Japanese Calligraphy](https://www.youtube.com/@seido-shodo)
+- [Seiho's YouTube Calligraphy School](https://www.youtube.com/@seihou)
+- Jōyō kanji playlist - [常用漢字の美文字レッスン](https://www.youtube.com/playlist?list=PLxNYIx5D9tAbYXKgTDmy7KJ8Z7u74hwKz)
 - [Kanji balance](https://美文字の書き方.com/c02/) - A Japanese-language guide to balancing kanji shapes for "beautiful handwriting" (美文字), sorted by structural pattern with worked examples for each.
 - **[※ - The "Kanken Deck"](https://mega.nz/file/VVdkUZbI#lGvxw2hDkw7JCEWa90cViY7cpYatf1SPUrE0Aw0OdDQ) - The best way to learn how to write when you can already read.**
 - **[※ - The "Kanken Deck With Stroke Animations"](https://drive.google.com/file/d/1o5Vc237S44FxACkhAd_3_bzOtxMusd2T/view) - The best way to learn how to write when you can already read. with stroke animations**
